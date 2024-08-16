@@ -17,7 +17,7 @@ const ContactList = (props) => {
   // const contacts = [
   //   {
   //     id: "1",
-  //     name: "Dipesh",
+  //     name: "Dipt",
   //     email: "dp@gmail.com",
   //   },
   // ];
