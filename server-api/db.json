@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "8695d9d2-bb42-4b61-b311-1e2a0b1421a4",
+      "name": "Kaushik chavda",
+      "email": "mk1733@gmail.com"
+    },
+    {
+      "id": "95b1a495-b65e-4748-8a1c-c4e7edd91183",
+      "name": "Maitri Chavda",
+      "email": "mkc@gmail.com"
+    },
+    {
+      "id": "a8032db3-043d-4277-87bc-7fb2c09a5d61",
+      "name": "kaushik chavda",
+      "email": "mkc@gmail.com"
+    },
+    {
+      "id": "637efa1a-9e9b-4e15-961b-f8af0167cc56",
+      "name": "jigu 3",
+      "email": "jjgu@gmail.com"
+    },
+    {
+      "id": "98e7c3e5-29a4-4934-a97a-abe56de09a88",
+      "name": "ambaram c",
+      "email": "aam@gmail.com"
+    },
+    {
+      "id": "dde0d97d-ad98-40e3-8796-25509ea7b51e",
+      "name": "veni",
+      "email": "venisha@gmail.com"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ const ContactDetail = () => {
     return <div>No contact details available</div>; // Handle cases where contact is not provided
   }
 
-  const { id, name, email } = contact;
+  const { name, email } = contact;
   //   const { name, email } = props.location.state.contact;
   return (
     <div className="main">
